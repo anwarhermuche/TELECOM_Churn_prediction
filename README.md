@@ -1,4 +1,4 @@
-# Segmentação de Clientes
+# Predição de churn - TELECOM
 
 ****
 
